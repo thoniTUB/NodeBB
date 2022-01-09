@@ -1,3 +1,7 @@
+.git/
+.git*
+nodebb.bat
+
 dist/
 yarn.lock
 npm-debug.log

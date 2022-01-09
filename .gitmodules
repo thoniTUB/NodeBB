@@ -1,0 +1,3 @@
+[submodule "lib/nodebb-plugin-sso-oauth"]
+	path = lib/nodebb-plugin-sso-oauth
+	url = git@github.com:thoniTUB/nodebb-plugin-sso-oauth.git
